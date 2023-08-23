@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import Masonry, { ResponsiveMasonry } from "react-responsive-masonry"
 import withRouter from './withRouter';
-import { albums_data } from "../_gallery/albums_data.js"
-import { people_data } from "../_gallery/people_data.js"
+import { albums_data } from "../gallery/albums_data.js"
+import { people_data } from "../gallery/people_data.js"
 import SwiperCore, { Keyboard, Pagination, HashNavigation, Navigation } from "swiper";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper.min.css';

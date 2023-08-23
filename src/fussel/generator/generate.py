@@ -413,11 +413,11 @@ class SiteGenerator:
         print(
             f'[bold]Generating site from [magenta]{Config.instance().input_photos_dir}[magenta][/bold]')
         output_photos_path = os.path.normpath(os.path.join(os.path.dirname(
-            os.path.realpath(__file__)), "..", "web", "public", "static", "_gallery"))
+            os.path.realpath(__file__)), "..", "web", "public", "static", "gallery"))
         output_data_path = os.path.normpath(os.path.join(os.path.dirname(
-            os.path.realpath(__file__)), "..", "web", "src", "_gallery"))
+            os.path.realpath(__file__)), "..", "web", "src", "gallery"))
         external_root = os.path.normpath(os.path.join(
-            Config.instance().http_root, "static", "_gallery", "albums"))
+            Config.instance().http_root, "static", "gallery", "albums"))
         generated_site_path = os.path.normpath(os.path.join(
             os.path.dirname(os.path.realpath(__file__)), "..", "web", "build"))
 

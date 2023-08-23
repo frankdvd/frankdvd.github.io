@@ -5,7 +5,7 @@ gallery:
 
   # Path to output the site to
   # Default: "site/"
-  output_path: "site/"
+  output_path: "../"
 
   # Setting to True will force a full rebuild of the gallery photos.
   # Setting to False will only generate files which are missing or added

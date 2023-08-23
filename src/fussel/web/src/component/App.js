@@ -4,7 +4,7 @@ import Collections from "./Collections";
 import Collection from "./Collection";
 import Lottery from "./Lottery";
 import NotFound from "./NotFound";
-import { site_data } from "../_gallery/site_data.js"
+import { site_data } from "../gallery/site_data.js"
 import { Routes, Route } from "react-router-dom";
 import { Helmet } from "react-helmet";
 

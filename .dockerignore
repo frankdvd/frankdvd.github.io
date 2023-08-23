@@ -10,9 +10,9 @@ __pycache__/
 resources/
 fussel/.venv
 fussel/.venv
-fussel/web/src/_gallery
+fussel/web/src/gallery
 fussel/web/build/
-fussel/web/public/static/_gallery
+fussel/web/public/static/gallery
 fussel/web/node_modules
 fussel/web/logs
 fussel/web/*.log
