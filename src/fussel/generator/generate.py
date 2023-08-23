@@ -420,6 +420,9 @@ class SiteGenerator:
             Config.instance().http_root, "static", "gallery", "albums"))
         generated_site_path = os.path.normpath(os.path.join(
             os.path.dirname(os.path.realpath(__file__)), "..", "web", "build"))
+        
+        print(output_data_path)
+        print("test")
 
         # Paths
         output_albums_data_file = os.path.join(
