@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dcbfbf5.css",
+    "main.js": "/static/js/main.e29ad966.js",
+    "static/media/animal-track-transparent-2.png": "/static/media/animal-track-transparent-2.e16fa77f16c13b91a169.png",
+    "static/media/txwj-QR.png": "/static/media/txwj-QR.d28bc70c0be38fc3da48.png",
+    "index.html": "/index.html",
+    "main.7dcbfbf5.css.map": "/static/css/main.7dcbfbf5.css.map",
+    "main.e29ad966.js.map": "/static/js/main.e29ad966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dcbfbf5.css",
+    "static/js/main.e29ad966.js"
+  ]
+}
