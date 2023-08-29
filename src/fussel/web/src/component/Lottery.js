@@ -19,7 +19,7 @@ class Lottery extends Component {
       <div className="container">
         <section className="hero is-small">
           <div className="hero-body">
-            扫一扫领取刮刮乐
+            微信中长按二维码, 前往小程序, 完成问卷后在迎宾区领取刮刮乐。
             <img src={txwj} />
           </div>
         </section>
