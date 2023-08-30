@@ -34,7 +34,7 @@ class Collections extends Component {
           <div className="card-content">
             <div className="media-content">
               <p className="title is-5">{subject.name}</p>
-              <p className="subtitle is-7">{subject["photos"].length} Photo{subject["photos"].length === 1 ? '' : 's'}</p>
+              <p className="subtitle is-7">{subject["photos"].length} 张</p>
             </div>
           </div>
         </div>
