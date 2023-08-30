@@ -13,7 +13,7 @@ export default class Navbar extends React.Component {
         </span>
         <span className="navbar-text">
           &nbsp;
-          相册
+          甜蜜的记录
         </span>
       </NavLink>
     )
@@ -27,7 +27,7 @@ export default class Navbar extends React.Component {
         </span>
         <span className="navbar-text">
           &nbsp;
-          刮刮乐
+          刮出一个亿
         </span>
       </NavLink>
     )

@@ -91,7 +91,7 @@ class Collection extends Component {
   title = (collectionType) => {
     var titleStr = "Unknown"
     if (collectionType == "albums") {
-      titleStr = "相册"
+      titleStr = "甜蜜的记录"
     }
     else if (collectionType == "people") {
       titleStr = "People"

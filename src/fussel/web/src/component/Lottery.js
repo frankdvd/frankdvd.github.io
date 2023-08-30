@@ -13,13 +13,17 @@ class Lottery extends Component {
     this.state = { };
   }
 
-
   render() {
     return (
       <div className="container">
         <section className="hero is-small">
           <div className="hero-body">
-            微信中长按二维码, 前往小程序, 完成问卷后在迎宾区领取刮刮乐。
+            <p>微信中长按二维码, 前往小程序, 完成问卷后在迎宾区领取中奖卡。</p>
+            <br></br>
+            <p>记得和我们分享幸运呀！</p>
+            <br></br>
+            <p>最好一家一半 ^_^!</p>
+            <br></br>
             <img src={txwj} />
           </div>
         </section>
