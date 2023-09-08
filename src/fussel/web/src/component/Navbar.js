@@ -63,7 +63,7 @@ export default class Navbar extends React.Component {
             <div className="navbar-start">
               {this.generateAlbumsButton()}
               {this.generatePeopleButton()}
-              {this.generateLotteryCodeButton()}
+              {/* {this.generateLotteryCodeButton()} */}
             </div>
           </div>
           <div className="navbar-end">
